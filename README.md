@@ -52,8 +52,20 @@ For end-to-end (e2e) testing, run:
 ng e2e
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+--------
+📲 Features
+✅ Functional Features
+- Register/Login with JWT Authentication
 
-## Additional Resources
+- Browse Available Matches (filter by Live/Replay)
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- Add Match to Playlist
+
+- Remove Match from Playlist
+
+- View User's Playlist
+
+- Responsive, Mobile-Friendly UI
+
+🎁 Bonus Feature
+- Watch Button: Opens a modal with an embedded YouTube video as a match preview placeholder.
